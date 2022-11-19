@@ -1,0 +1,35 @@
+
+Concepts:
+  while loop: while is used as entry controlled loop
+    incremental while
+    decremental while
+
+  different ways add elements into an array:
+    using index
+    built methods
+      push ->  Appends new elements to the end of an array, and returns the new length of the array.
+      pop  -> Removes the last element from an array and returns it. If the array is empty, undefined is returned and the array is not modified.
+  
+  switch case: multiple cases can be checked
+
+  frequency of number/chars in array or string
+
+  Prime Number
+
+  built-in methods to reverse array ---> arr.reverse(); // modifies and reverses the array
+  built-in methods to string --> toUpperCase, toLowerCase
+
+
+Next Session:
+  Array Reverse
+  Area of a Rectangle ( round-off n 1 decimal place )
+  Leap Year or not
+  Leap Year ---> O/P: LEAP
+  Non Leap Year ---> O/P: COMMON
+
+  String:
+    1. Reverse a String
+    2. Palindrome
+  
+
+
